@@ -10,4 +10,11 @@ public class TestApplication {
         SpringApplication.run(TestApplication.class, args);
     }
 
+    public void test(){
+        System.out.println("Test");
+    }
+    public void test2(){
+        System.out.println("Test");
+    }
+
 }
